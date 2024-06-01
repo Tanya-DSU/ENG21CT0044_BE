@@ -21,7 +21,7 @@ const authPayload = {
     ownerEmail: "eng21ct0044@dsu.edu.in",
     rollNo: "eng21ct0044"
 };
-
+// should not paste here, instead use /testserver/test/auth to get auth token every time using authpayload but currently its not working as pointed out in readme.
 const authToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzE3MjI0Mjg1LCJpYXQiOjE3MTcyMjM5ODUsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6ImNjNjRlM2JjLTI0ZjMtNGRjNS05ZGVmLTYzNWQ2OTMzZDhhNyIsInN1YiI6InNoYWt0YXdhdGRldmVuZHJhMTdAZ21haWwuY29tIn0sImNvbXBhbnlOYW1lIjoidGVzdE1hcnQiLCJjbGllbnRJRCI6ImNjNjRlM2JjLTI0ZjMtNGRjNS05ZGVmLTYzNWQ2OTMzZDhhNyIsImNsaWVudFNlY3JldCI6ImFvdU5hclBydkJtRFlIVUMiLCJvd25lck5hbWUiOiJUYW55YSIsIm93bmVyRW1haWwiOiJzaGFrdGF3YXRkZXZlbmRyYTE3QGdtYWlsLmNvbSIsInJvbGxObyI6ImVuZzIxY3QwMDQ0In0.upWLQenf8pTEvkL9xusHVh_NGBYjAXUg-9DSgLIoMg8";
 
 app.get('/numbers/:type', async (req, res) => {
