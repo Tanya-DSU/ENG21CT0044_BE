@@ -46,7 +46,7 @@ app.get('/numbers/:numberId', async (req, res) => {
         companyName: 'testMart',
         clientID: '71b6e1b2-eb9a-4f80-9c44-ca73fc9181e5',
         clientSecret: 'LhXynkeixpnDhIou',
-        ownerName: 'Tanya',
+        ownerName: 'Dummy',
         ownerEmail: 'shaktawatdevendra03@gmail.com',
         rollNo: 'eng21ct0044'
     };
