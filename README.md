@@ -1,4 +1,10 @@
-### OUTPUT
+## How to run server 
+`clone the repo`
+`cd to project repo`
+`npm install` 
+`node server.js`
+
+## OUTPUT
 Output for prime numbers 
 API :- /numbers/:numberId 
 here numberId :- p = prime, e = even, f=fibonacci 
@@ -14,7 +20,7 @@ Response
 ![image](https://github.com/Tanya-DSU/ENG21CT0044_BE/assets/141429948/ea96aa51-d2c8-40e1-9625-c415615c3688)
 
 
-### Note 
+## Note 
 I have used local authtoken extracted from postman itself. After some time when we try get the AuthToken with old clientId and clientSecret, it is failing and the test server gives following error.
 ![image](https://github.com/Tanya-DSU/ENG21CT0044_BE/assets/141429948/122330b7-717a-4603-aeeb-52cbca6bf410)
 And if I try to register the client (which is only supposed to be done once)
