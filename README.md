@@ -37,7 +37,7 @@ The previous state is similar to first response
 
 ## Note 
 I have used local authtoken extracted from postman itself. After some time when we try get the AuthToken with old clientId and clientSecret, it is failing and the test server gives following error.
-![image](https://github.com/Tanya-DSU/ENG21CT0044_BE/assets/141429948/b5b7cd50-aaf2-42ca-a602-235002bedfa2)
+![WhatsApp Image 2024-06-01 at 13 07 58_1b0c1774](https://github.com/Tanya-DSU/ENG21CT0044_BE/assets/141429948/bb30aa1a-5954-4af5-a525-42391d2a12a9)
 
 And if I try to register the client (which is only supposed to be done once)
 ![image](https://github.com/Tanya-DSU/ENG21CT0044_BE/assets/141429948/5692e682-7750-478a-9240-7b10de2fbbd5)
