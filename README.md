@@ -17,8 +17,21 @@ Test server api used
 ![image](https://github.com/Tanya-DSU/ENG21CT0044_BE/assets/141429948/73ed5f35-2fcd-4294-8251-817724ce9e77)
 
 
-Response 
-![WhatsApp Image 2024-06-01 at 12 44 13_89887fd3](https://github.com/Tanya-DSU/ENG21CT0044_BE/assets/141429948/1247f1f8-27f5-41a9-9d22-33fea9430396)
+## Response 
+We have to pass correct param 
+
+![image](https://github.com/Tanya-DSU/ENG21CT0044_BE/assets/141429948/0af1f6cc-cce7-4a21-b59d-d657821667f1)
+
+### First reponse 
+![WhatsApp Image 2024-06-01 at 13 34 03_b41622a6](https://github.com/Tanya-DSU/ENG21CT0044_BE/assets/141429948/a70b1ff8-3f8f-4843-9425-f188873f6d6b)
+
+### Second reponse
+The previous state is similar to first response
+
+![WhatsApp Image 2024-06-01 at 13 39 00_5f056b42](https://github.com/Tanya-DSU/ENG21CT0044_BE/assets/141429948/9a9fb376-92c0-4414-a223-97a4703f5105)
+
+
+
 
 
 
