@@ -1,3 +1,5 @@
+# Average calculator microservice
+
 ## How to run server 
 `clone the repo` <br />
 `cd to project repo` <br />
