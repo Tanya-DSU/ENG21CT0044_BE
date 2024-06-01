@@ -1,8 +1,8 @@
 ## How to run server 
-`clone the repo`
-`cd to project repo`
-`npm install` 
-`node server.js`
+`clone the repo` \n
+`cd to project repo` \n
+`npm install` \n
+`node server.js` \n
 
 ## OUTPUT
 Output for prime numbers 
