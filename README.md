@@ -18,7 +18,7 @@ Test server api used
 
 
 Response 
-![image](https://github.com/Tanya-DSU/ENG21CT0044_BE/assets/141429948/919af011-5669-4243-8bf5-8569ecec68fb)
+![WhatsApp Image 2024-06-01 at 12 44 13_89887fd3](https://github.com/Tanya-DSU/ENG21CT0044_BE/assets/141429948/1247f1f8-27f5-41a9-9d22-33fea9430396)
 
 
 
