@@ -8,7 +8,7 @@
 
 ## OUTPUT
 Output for prime numbers 
-API :- /numbers/:numberId 
+API :- /numbers/:type
 here numberId :- p = prime, e = even, f=fibonacci 
 
 Test server api used
